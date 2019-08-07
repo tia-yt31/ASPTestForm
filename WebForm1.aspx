@@ -7,13 +7,14 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div id = "teststr">
-    
-        test</div>
+    <li>
+    <a href="WebForm1.aspx">sono1</a>
+    </li>
+    <li>
     <a href="WebForm2.aspx">sono2</a>
-    <asp:Button ID="Button3" runat="server" Text="Button" />
-    <asp:Button ID="Button4" runat="server" Text="Button" />
-    </form>
-    </body>
+    </li>
+    <li>
+    <a href="WebForm3.aspx">sono3</a>
+    </li>
+</body>
 </html>
